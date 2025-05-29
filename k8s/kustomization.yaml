@@ -9,4 +9,4 @@ images:
   newTag: c58b625834eb8b45c0d3d3b45ba4cbc288fc5146
 - name: hello-fastapi
   newName: luizmario/fastapi-k8s
-  newTag: 539c218b541fcb9e7180203245591140b48a66ae
+  newTag: 5a061942da934bb5dcdc3e302c18529b7d5df84d
